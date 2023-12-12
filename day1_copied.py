@@ -1,5 +1,6 @@
 file = open('day1.txt', 'r')
 
+'''
 total = 0
 
 for row in file.readlines():
@@ -11,3 +12,4 @@ for row in file.readlines():
     total += int(res)
 
 print(total)
+'''
